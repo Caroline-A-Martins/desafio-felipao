@@ -1,4 +1,4 @@
-let nomeHeroi = "Pamella";
+let nomeHeroi = "Hércules";
 let quantidadeExperiencia = 1000;
 let nivel;
 
